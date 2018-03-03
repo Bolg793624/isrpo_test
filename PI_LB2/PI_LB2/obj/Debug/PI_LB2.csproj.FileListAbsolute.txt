@@ -1,0 +1,5 @@
+C:\disk\education\4_1\Защита информации\LB2\PI_LB2\PI_LB2\bin\Debug\PI_LB2.exe
+C:\disk\education\4_1\Защита информации\LB2\PI_LB2\PI_LB2\bin\Debug\PI_LB2.pdb
+C:\disk\education\4_1\Защита информации\LB2\PI_LB2\PI_LB2\obj\Debug\PI_LB2.csprojResolveAssemblyReference.cache
+C:\disk\education\4_1\Защита информации\LB2\PI_LB2\PI_LB2\obj\Debug\PI_LB2.exe
+C:\disk\education\4_1\Защита информации\LB2\PI_LB2\PI_LB2\obj\Debug\PI_LB2.pdb
