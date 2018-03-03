@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PI_LB2
+namespac PI_LB2
 {
     class Program
     {
