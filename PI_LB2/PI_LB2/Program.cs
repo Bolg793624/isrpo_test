@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespac PI_LB2
+namespace PI_LB2
 {
     class Program
     {
         // длина блока
-        static int blockLength = 15;
+        static int blockLength = 20;
         // левая граница алфавита
         static char leftRange = 'А';
         // правая граница алфавита
