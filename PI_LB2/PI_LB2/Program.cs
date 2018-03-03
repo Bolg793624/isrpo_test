@@ -14,7 +14,7 @@ namespace PI_LB2
         // правая граница алфавита
         static char rightRange = 'Я';
         // пробел
-        static char space = ' ';
+        static ch space = ' ';
         // входная строка
         static string inputStr = "Я ВЫШЕЛ ИЗ ЛЕСУ БЫЛ СИЛЬНЫЙ МОРОЗ";
         static int[] indexMassiv = {13,8,2,0,6,1,10,14,16,11,3,15,5,9,7,12,4};
